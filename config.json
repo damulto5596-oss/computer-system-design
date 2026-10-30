@@ -1,0 +1,11 @@
+{
+  "api_key": "YOUR_DATA_GO_KR_DECODING_API_KEY",
+  "location": {
+    "city_name": "서울특별시청",
+    "use_lat_lon": true,
+    "latitude": 37.5665,
+    "longitude": 126.9780,
+    "grid_nx": 60,
+    "grid_ny": 127
+  }
+}
